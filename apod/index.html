@@ -11,7 +11,7 @@
 <body>
 <!--Header-->
 <div class="row bg-dark text-white">
-<h1>Reports</h1>
+<h1>Apod</h1>
 </div>
 <ul class="nav nav-tabs">
 <li class="nav-item">
@@ -38,34 +38,26 @@
     <a class="nav-link" href="..\articles\index.html">Articles and Blogs</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="..\apod\index.html">Apod</a>
+    <a class="nav-link" href="#">Apod</a>
   </li>
 </ul>
 <!--End of header-->
-<!--body-->
-<h3>Reports</h3>
-<h5>All recent reports :</h5>
-
-<div id="reports"></div>
+<h3>Astronomy Picture of the Day</h3>
+<p>The astronomy picture of the day (i.e by default today) will be shown here</p>
+<form action="">
+  <div class="form-row align-items-center">
+    <div class="col-auto">
+      <div class="input-group mb-2">
+      <h4 for="datepicker">Date: &ensp;</h4>
+            <input type="text" id="date1" class="form-control" placeholder="yy-mm-dd">
+    </div>
+    <div class="col-auto">
+      <button type="submit" class="btn btn-success mb-2">Submit</button>
+    </div>
+  </div>
+</form>
+<div id="nasa-images"></div>
 <!--End of body-->
-
-
 <script src="script.js" ></script>
 </body>
 </html>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

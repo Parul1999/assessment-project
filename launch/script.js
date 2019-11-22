@@ -21,7 +21,7 @@ $("form button").click(function(e) {
         var count = 0;
         console.log(type);
         for (let types of type) {
-            nasaImages.append("id : " + types.id + " " + "name: " + types.name + " " + types.net + "<br/>");
+            nasaImages.append("<div class='row'><div class='col-md-3'>Id : " + types.id + " " + "</div><div class='col-md-6'> Name: " + types.name + "</div><div class='col-md-3'>" + types.net + "</div></div>");
             count++;
         };
         nasaImages.append("Total Launches=" + count)
