@@ -11,7 +11,6 @@ i.e the start date and the end date all the launches made during the time period
 <p>HTML</p>
 <p>CSS</p>
 <p>Bootstrap</p>
-<p>Jquery</p>
 <h2>End Points </h2>
 <ul>
 <li>https://launchlibrary.net/1.3/launch?startdate=&enddate=</li>
