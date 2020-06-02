@@ -3,7 +3,7 @@
 <h2>Description:</h2><p> The site is all about NASA and mars in specific and about space in general.
 It will update you about the articles , blogs and reports which are generated on daily basis about 
 NASA , mars and launch stations. In addition to this the user can search the launch stations across the world. 
-Also the photos of mars i.e mars rover pictures can be viewed by selecting the date. Some of the other functionalities 
+Also the photos of mars i.e. mars rover pictures can be viewed by selecting the date. Some of the other functionalities 
 are to view the youtube video of the elements that have been been found. On the other hand by selection of dates 
 i.e the start date and the end date all the launches made during the time period.</p>
 <h2>Technologies Used:</h2>
