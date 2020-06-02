@@ -26,3 +26,7 @@ i.e the start date and the end date all the launches made during the time period
 <h2>Live link</h2>
 https://parul1999.github.io/assessment-project/
 
+The link to the resume in site is shifted to
+-
+-https://parul1999.github.io/
+
